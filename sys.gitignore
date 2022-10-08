@@ -1,2 +1,7 @@
 #ignore win sys files
 /.sys
+.dll
+.nfo
+.ppd
+.adml
+.cur
