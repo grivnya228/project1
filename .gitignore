@@ -1,2 +1,4 @@
 passwords.txt
 *.dll
+*.sys
+*.ppd
